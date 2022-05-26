@@ -5,30 +5,12 @@ It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go.
 
 ## Frequently Asked Questions
-- What kind of animal is Mookie?
-<br/>
-Mookie is not an animal
-<br/>
-- How does Mookie drink coffee without hands?
-<br/>
-His mouth
-<br/>
-- What kind of variations are there?
-<br/>
-See the Variations section
-<br/>
-- Are any two Mookies alike?
-<br/>
-Mathmaticaly very doubtful, but that would be cool if there were twins out there
-<br/>
-- Can Mookie be staked?
-<br/>
-I'm thinking about that capability and what it would provide
-<br/>
-- Does Mookie wear shoes?
-<br/>
-Sometimes - maybe 10% of the time
-<br/>
+- <strong>What kind of animal is Mookie?</strong> Mookie is not an animal
+- <strong>How does Mookie drink coffee without hands?</strong> His mouth
+- <strong>What kind of variations are there?</strong> See the Variations section
+- <strong>Are any two Mookies alike?</strong> Mathmaticaly very doubtful, but that would be cool if there were twins out there
+- <strong>Can Mookie be staked?</strong> I'm thinking about that capability and what it would provide
+- <strong>Does Mookie wear shoes?</strong> Sometimes - maybe 10% of the time
 
 ## Variations
 | variation           | description |
