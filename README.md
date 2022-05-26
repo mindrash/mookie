@@ -6,15 +6,28 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 
 ## Frequently Asked Questions
 - What kind of animal is Mookie?
+
 Mookie is not an animal
+
 - How does Mookie drink coffee without hands?
+
 His mouth
+
 - What kind of variations are there?
+
 See the Variations section
+
 - Are any two Mookies alike?
+
 Mathmaticaly very doubtful, but that would be cool if there were twins out there
+
 - Can Mookie be staked?
+
 I'm thinking about that capability and what it would provide
+
+- Does Mookie wear shoes?
+
+Sometimes - maybe 10% of the time
 
 ## Variations
 | variation           | description |
