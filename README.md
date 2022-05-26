@@ -4,7 +4,7 @@ It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 ## Description
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go.
 
-## Frequenty Asked Questions
+## Frequently Asked Questions
 - What kind of animal is Mookie?
 Mookie is not an animal
 - How does Mookie drink coffee without hands?

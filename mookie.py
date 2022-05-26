@@ -28,7 +28,7 @@ def main():
     logging.info("Finished: " + str(datetime.datetime.now()))
 
 def mookie():
-    total_supply = 10
+    total_supply = 12000
     mookie_count = 1
     width = 1024
     height = 1024
