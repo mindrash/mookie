@@ -6,11 +6,11 @@ import pyfiglet
 import logging
 import datetime
 import PIL
-from PIL import Image, ImageDraw, ImageEnhance, ImageChops, ImageFont
+from PIL import Image, ImageDraw, ImageColor, ImageChops, ImageFont
 import torchvision.transforms.functional as F
 import random
 import json
-
+from colorthief import ColorThief
 
 def main():
     print(pyfiglet.figlet_format("metadevil"))
@@ -51,6 +51,7 @@ def mookie():
     skateboard_wheel = Image.open('pieces/skateboard-wheel-1.png')
     coffee = Image.open('pieces/coffee-1.png')
     has_coffee = False
+    has_freak_ellipse = False
 
     while mookie_count <= total_supply:
         print("Processing: " + str(mookie_count))
@@ -60,6 +61,12 @@ def mookie():
         
         im = Image.new('RGBA', (width, height), background_color)
         im = ImageChops.blend(background_layover, im, .8)
+
+        if (mookie_count > 1 and 1 == randrange(0, 20)):
+            colors = ColorThief("out_png/1.png")
+            palette = colors.get_palette(color_count=10)
+            freak_ellipse(im, palette)
+            has_freak_ellipse = True
 
         mookie = Image.new('RGBA', (width, height), (255, 0, 0, 0))
         head_type = randrange(0, len(heads))
@@ -158,6 +165,10 @@ def mookie():
                     "trait_type" : "has_skateboard",
                     "value" : str(has_skateboard)
                 },
+                {
+                    "trait_type" : "has_freak_ellipse",
+                    "value" : str(has_freak_ellipse)
+                },
             ],
         }
 
@@ -165,6 +176,41 @@ def mookie():
             json.dump(nft_json, data_file)
 
         mookie_count += 1
+
+def freak_ellipse(img, palette):
+    dctx = ImageDraw.Draw(img)
+    bmsz = (img.width // 16 - 10, img.height // 16 - 10)
+
+    if randrange(0, 5) == 1:
+        colors = palette
+    else:
+        colors = list(ImageColor.colormap.keys())
+
+    if randrange(1, 3) % 2 == 0:
+        colors.sort()
+
+    if 1 == randrange(1, 10):
+        colors.sort(reverse=True)
+
+    for y in range(16):
+        for x in range(16):
+            bm = Image.new("L", bmsz)
+            dctx_inner = ImageDraw.Draw(bm)
+            dctx_inner.ellipse(
+                [(0, 0), bm.size],
+                fill=y * 16 + x
+                )
+            del dctx_inner
+
+            pos = [
+                ((bmsz[0] + 10) * x + 10,
+                (bmsz[1] + 10) * y + 10)]
+            dctx.bitmap(
+                pos,
+                bm,
+                fill=colors[(y * 16 + x) % len(colors)])
+    del dctx
+
 
 if __name__ == "__main__":
     main()

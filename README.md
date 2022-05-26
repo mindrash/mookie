@@ -30,5 +30,6 @@ I'm thinking about that capability and what it would provide
 | shoes               | 20% probability |
 | coffee              | 10% probability |
 | skateboard          | 10% probability with random 90 degree rotate wheels x 2|
+| freak_elipse        | 5% probability with randomized pallette|
 
 ## Examples

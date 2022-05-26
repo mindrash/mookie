@@ -9,6 +9,9 @@ out_ipfs/
 logs/
 svg-templates/
 
+*.py
+pieces/
+
 # C extensions
 *.so
 
