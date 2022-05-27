@@ -4,7 +4,7 @@
 It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 
 ## Description
-For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go.
+For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie Mo Booty.
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
 [Discord](https://discord.gg/HWnrVSBC) | 
