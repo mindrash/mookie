@@ -1,8 +1,20 @@
+![mookie](./docs/1440x400.png)
+
 # It's Mookie
 It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 
 ## Description
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go.
+
+[Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
+[Discord](https://discord.gg/HWnrVSBC) | 
+[Twitter](https://twitter.com/mindrash) | 
+[metadevil.io](https://metadevil.io) | 
+[pebkac.fyi](https://pebkac.fyi)
+
+## Examples
+
+![mookie](./docs/examples.png)
 
 ## Frequently Asked Questions
 - <strong>What kind of animal is Mookie?</strong> Mookie is not an animal
@@ -11,6 +23,14 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 - <strong>Are any two Mookies alike?</strong> Mathmaticaly very doubtful, but that would be cool if there were twins out there
 - <strong>Can Mookie be staked?</strong> I'm thinking about that capability and what it would provide
 - <strong>Does Mookie wear shoes?</strong> Sometimes - maybe 10% of the time
+
+## Technologies
+- Python
+- Solidity
+- Ethereum
+- IPFS
+
+Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 
 ## Variations
 | variation           | description |
@@ -28,4 +48,8 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 | skateboard          | 10% probability with random 90 degree rotate wheels x 2|
 | freak_elipse        | 5% probability with randomized pallette|
 
-## Examples
+[Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
+[Discord](https://discord.gg/HWnrVSBC) | 
+[Twitter](https://twitter.com/mindrash) | 
+[metadevil.io](https://metadevil.io) | 
+[pebkac.fyi](https://pebkac.fyi)
