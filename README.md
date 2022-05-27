@@ -33,6 +33,7 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 
 ## Variations
+
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
