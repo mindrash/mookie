@@ -33,8 +33,8 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 
 ## Variations
-| variation           | description |
-|---------------------|-------------|
+| variation           | description                                             |
+|---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
 | background_layover  | 9 options |
 | antenna             | 3 options x 2 |
@@ -45,8 +45,10 @@ Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 | hue                 | random -.5 to .5 on original |
 | shoes               | 20% probability |
 | coffee              | 10% probability |
-| skateboard          | 10% probability with random 90 degree rotate wheels x 2|
-| freak_elipse        | 5% probability with randomized pallette|
+| skateboard          | 10% probability with random 90 degree rotate wheels x 2 |
+| freak_elipse        | 5% probability with randomized pallette |
+
+--
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
 [Discord](https://discord.gg/HWnrVSBC) | 
