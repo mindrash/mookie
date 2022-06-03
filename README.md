@@ -7,14 +7,15 @@ It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie breed.
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Discord](https://discord.gg/HWnrVSBC) | 
+[Opensea](https://opensea.io/collection/its-mookie) | 
+[Rarible](https://rarible.com/itsmookie/items) | 
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi)
 
 ## Examples
 
-![mookie](./docs/examples.png)
+![mookie](./docs/examples2.png)
 
 ## Frequently Asked Questions
 - <strong>What kind of animal is Mookie?</strong> Mookie is not an animal
@@ -26,10 +27,10 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 - <strong>What is the total supply? 12,000
 
 ## Technologies
-- Python
-- Solidity
-- Ethereum
-- IPFS
+- Python - art generation
+- Solidity - ERC-721
+- Ethereum - the gaaaaas!
+- IPFS - hashed image on meta
 
 Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 
@@ -53,7 +54,8 @@ Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 ---
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Discord](https://discord.gg/HWnrVSBC) | 
+[Opensea](https://opensea.io/collection/its-mookie) | 
+[Rarible](https://rarible.com/itsmookie/items) | 
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi)

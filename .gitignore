@@ -3,13 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+out_firemeta/
+out_firepng/
 out_meta/
 out_png/
 out_ipfs/
 logs/
 svg-templates/
-
-*.py
+add-to-ipfs.py
+fleeflame.py
+mookie.py
+*.zip
 pieces/
 
 # C extensions
