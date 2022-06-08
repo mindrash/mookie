@@ -1,21 +1,29 @@
 ![mookie](./docs/1440x400.png)
 
-# It's Mookie
+# It's Mookie Original and S3 Hypermodern Series
 It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
+[Opensea](https://opensea.io/collection/its-mookie) | 
+[Rarible](https://rarible.com/itsmookie/items) | 
+
+Introducing It's Mookie S3 Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
+[Opensea](https://opensea.io/collection/its-mookie-s3) | 
+[Rarible](https://rarible.com/itsmookie-s3/) | 
 
 ## Description
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie breed.
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Opensea](https://opensea.io/collection/its-mookie) | 
-[Rarible](https://rarible.com/itsmookie/items) | 
+[Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi)
 
 ## Examples
-
+Original flavor
 ![mookie](./docs/examples2.png)
+
+S3 Hypermodern Series flavor
+![mookie](./docs/examples3.png)
 
 ## Frequently Asked Questions
 - <strong>What kind of animal is Mookie?</strong> Mookie is not an animal
@@ -29,10 +37,11 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 ## Technologies
 - Python - art generation
 - Solidity - ERC-721
-- Ethereum - the gaaaaas!
+- Ethereum - the gaaaaas! and ... Polygon because much less gas
 - IPFS - hashed image on meta
 
-Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
+It's Mookie - Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
+It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309a973D669
 
 ## Variations
 

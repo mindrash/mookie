@@ -3,15 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-out_firemeta/
-out_firepng/
+out_3series-ipfs/
+out_3series-meta/
+out_3series-png/
 out_meta/
 out_png/
 out_ipfs/
 logs/
 svg-templates/
 add-to-ipfs.py
-fleeflame.py
+3series.py
 mookie.py
 *.zip
 pieces/
