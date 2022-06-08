@@ -45,6 +45,7 @@ It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309
 
 ## Variations
 
+Original
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
@@ -59,6 +60,32 @@ It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309
 | coffee              | 10% probability |
 | skateboard          | 10% probability with random 90 degree rotate wheels x 2 |
 | freak_elipse        | 5% probability with randomized pallette |
+
+---
+
+S3 Hypermodern
+| variation           | description                                             |
+|---------------------|---------------------------------------------------------|
+| background_color    | tuple(random.choices(range(200, 256), k=3)) |
+| background_layover  | 9 options |
+| antenna             | 3 options x 2 |
+| head                | 3 options |
+| eyes                | random 90 degree rotate x 2 |
+| mouth               | 4 options 1 impacted by hue |
+| body                | 2 |
+| hue                 | random -.5 to .5 on original |
+| shoes               | 20% probability |
+| coffee              | 10% probability |
+| skateboard          | 10% probability with random 90 degree rotate wheels x 2 |
+| freak_elipse        | 10% probability |
+| cigar               | 10% probability |
+| boobs               | 10% probability |
+| wings               | 10% probability |
+| drink               | 10% probability |
+| headphones          | 10% probability |
+| burger              | 10% probability |
+| horns               | 10% probability |
+| shades              | 10% probability |
 
 ---
 
