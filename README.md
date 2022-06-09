@@ -1,18 +1,18 @@
 ![mookie](./docs/1440x400.png)
 
 # It's Mookie Original and S3 Hypermodern Series
-It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
-On Ethereum<br/>
+It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go. 
+<strong>(On Ethereum)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie) | 
 [Rarible](https://rarible.com/itsmookie/items) | 
 
 Introducing It's Mookie S3 Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
-On Polygon<br/>
+<strong>(On Polygon)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie-s3) | 
 [Rarible](https://rarible.com/itsmookie-s3/) | 
 
 Introducing It's Mookie S3-PS Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
-On Fantom
+<strong>(On Fantom)</strong><br/>
 Listings in progress!
 
 ## Description
@@ -49,6 +49,7 @@ S3 Hypermodern Series flavor
 
 It's Mookie - Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
 It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309a973D669
+It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5
 
 ## Variations
 
