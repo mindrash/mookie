@@ -47,9 +47,9 @@ S3 Hypermodern Series flavor
 - Ethereum - the gaaaaas! and ... Polygon because much less gas
 - IPFS - hashed image on meta
 
-It's Mookie - Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc
-It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309a973D669
-It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5
+It's Mookie - Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc<br/>
+It's Mookie S3 Hypermodern Series - Contract: 0x501637fa5Ea4c19086425De328F45309a973D669<br/>
+It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5<br/>
 
 ## Variations
 
