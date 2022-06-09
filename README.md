@@ -6,12 +6,12 @@ It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
 [Opensea](https://opensea.io/collection/its-mookie) | 
 [Rarible](https://rarible.com/itsmookie/items) | 
 
-Introducing It's Mookie S3 Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
+Introducing It's Mookie <strong>S3 Hypermodern Series</strong>! Now with cigars, boobs, wings, and more! Are you hypermodern???
 <strong>(On Polygon)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie-s3) | 
 [Rarible](https://rarible.com/itsmookie-s3/) | 
 
-Introducing It's Mookie S3-PS Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
+Also introducing It's Mookie <strong>S3-PS Hypermodern Series</strong>! Now with cigars, boobs, wings, and more! New background set!
 <strong>(On Fantom)</strong><br/>
 Listings in progress!
 
