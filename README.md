@@ -1,6 +1,6 @@
 ![mookie](./docs/1440x400.png)
 
-# It's Mookie Original and S3 Hypermodern Series
+# It's Mookie Original, S3, and S3-PS Hypermodern Series
 It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go. 
 <strong>(On Ethereum)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie) | 
