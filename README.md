@@ -16,7 +16,7 @@ Also introducing It's Mookie <strong>S3-PS Hypermodern Series</strong>! Now with
 Listings in progress!
 
 ## Description
-For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie breed.
+For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply on the orignal (free mint) and 3,333 each on S3 and S3-PS. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie breed.
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
 [Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
@@ -53,7 +53,7 @@ It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320
 
 ## Variations
 
-Original
+Original (12,000) on Ethereum
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
@@ -71,7 +71,7 @@ Original
 
 ---
 
-S3 Hypermodern
+S3 Hypermodern (3,333) on Polygon
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
@@ -97,7 +97,7 @@ S3 Hypermodern
 
 ---
 
-S3-PS Hypermodern
+S3-PS Hypermodern (3,333) on Fantom
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
