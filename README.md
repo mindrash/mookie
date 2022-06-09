@@ -2,18 +2,25 @@
 
 # It's Mookie Original and S3 Hypermodern Series
 It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go.
+On Ethereum<br/>
 [Opensea](https://opensea.io/collection/its-mookie) | 
 [Rarible](https://rarible.com/itsmookie/items) | 
 
 Introducing It's Mookie S3 Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
+On Polygon<br/>
 [Opensea](https://opensea.io/collection/its-mookie-s3) | 
 [Rarible](https://rarible.com/itsmookie-s3/) | 
+
+Introducing It's Mookie S3-PS Hypermodern Series! Now with cigars, boobs, wings, and more! Are you hypermodern???
+On Fantom
+Listings in progress!
 
 ## Description
 For this collection I wanted to dive into the world of PFPs and create an entity with a projected personality. That entity is Mookie and that personality is yours. Now go. There is a 12,000 total supply. These will mint as the first lots sell to fund the next batches. The more you buy the more Mookie can breed ... help Mookie breed.
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
 [Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
+[Fantomscan](https://ftmscan.com/address/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5) | 
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi)
@@ -67,7 +74,33 @@ S3 Hypermodern
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
-| background_layover  | 9 options |
+| background_layover  | 5 options |
+| antenna             | 3 options x 2 |
+| head                | 3 options |
+| eyes                | random 90 degree rotate x 2 |
+| mouth               | 4 options 1 impacted by hue |
+| body                | 2 |
+| hue                 | random -.5 to .5 on original |
+| shoes               | 20% probability |
+| coffee              | 10% probability |
+| skateboard          | 10% probability with random 90 degree rotate wheels x 2 |
+| freak_elipse        | 10% probability |
+| cigar               | 10% probability |
+| boobs               | 10% probability |
+| wings               | 10% probability |
+| drink               | 10% probability |
+| headphones          | 10% probability |
+| burger              | 10% probability |
+| horns               | 10% probability |
+| shades              | 10% probability |
+
+---
+
+S3-PS Hypermodern
+| variation           | description                                             |
+|---------------------|---------------------------------------------------------|
+| background_color    | tuple(random.choices(range(200, 256), k=3)) |
+| background_layover  | 5 options |
 | antenna             | 3 options x 2 |
 | head                | 3 options |
 | eyes                | random 90 degree rotate x 2 |
@@ -90,8 +123,9 @@ S3 Hypermodern
 ---
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Opensea](https://opensea.io/collection/its-mookie) | 
-[Rarible](https://rarible.com/itsmookie/items) | 
+[Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
+[Fantomscan](https://ftmscan.com/address/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5) | 
 [Twitter](https://twitter.com/mindrash) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi)
+

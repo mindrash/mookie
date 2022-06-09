@@ -6,12 +6,17 @@ __pycache__/
 out_3series-ipfs/
 out_3series-meta/
 out_3series-png/
+out_3series-PS-ipfs/
+out_3series-PS-meta/
+out_3series-PS-png/
 out_meta/
 out_png/
 out_ipfs/
 logs/
+pieces/
 svg-templates/
 add-to-ipfs.py
+3series-PS.py
 3series.py
 mookie.py
 *.zip
