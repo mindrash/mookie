@@ -43,7 +43,7 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 - <strong>Are any two Mookies alike?</strong> Mathmaticaly very doubtful, but that would be cool if there were twins out there
 - <strong>Can Mookie be staked?</strong> I'm thinking about that capability and what it would provide
 - <strong>Does Mookie wear shoes?</strong> Sometimes - maybe 10% of the time
-- <strong>What is the total supply? 12,000 original, 3,333 S3, and 3,333 S3-PS 
+- <strong>What is the total supply?</strong> 12,000 original, 3,333 S3, and 3,333 S3-PS 
 
 ## Technologies
 - Python - art generation
