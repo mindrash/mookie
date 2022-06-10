@@ -33,6 +33,9 @@ Original flavor
 S3 Hypermodern Series flavor
 ![mookie](./docs/examples3.png)
 
+S3-PS Hypermodern Series flavor
+![mookie](./docs/examples4.png)
+
 ## Frequently Asked Questions
 - <strong>What kind of animal is Mookie?</strong> Mookie is not an animal
 - <strong>How does Mookie drink coffee without hands?</strong> His mouth
