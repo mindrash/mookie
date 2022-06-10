@@ -128,6 +128,8 @@ It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320
 | horns               | 10% probability |
 | shades              | 10% probability |
 
+Seriously, if you have read this far then I love you. Reach out to me on Twitter or Discord (copy this sentence while it is still published in the README) and I will send you a Mookie! 
+
 ---
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
