@@ -27,13 +27,13 @@ For this collection I wanted to dive into the world of PFPs and create an entity
 [pebkac.fyi](https://pebkac.fyi)
 
 ## Examples
-Original flavor
+###Original flavor
 ![mookie](./docs/examples2.png)
 
-S3 Hypermodern Series flavor
+###S3 Hypermodern Series flavor
 ![mookie](./docs/examples3.png)
 
-S3-PS Hypermodern Series flavor
+###S3-PS Hypermodern Series flavor
 ![mookie](./docs/examples4.png)
 
 ## Frequently Asked Questions
@@ -57,7 +57,8 @@ It's Mookie S3-PS Hypermodern Series - Contract: 0x16d2e7daf6636c49dd5dd85a09320
 
 ## Variations
 
-Original (12,000) on Ethereum
+###Original (12,000) on Ethereum
+
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
@@ -75,7 +76,8 @@ Original (12,000) on Ethereum
 
 ---
 
-S3 Hypermodern (3,333) on Polygon
+###S3 Hypermodern (3,333) on Polygon
+
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
@@ -101,7 +103,8 @@ S3 Hypermodern (3,333) on Polygon
 
 ---
 
-S3-PS Hypermodern (3,333) on Fantom
+###S3-PS Hypermodern (3,333) on Fantom
+
 | variation           | description                                             |
 |---------------------|---------------------------------------------------------|
 | background_color    | tuple(random.choices(range(200, 256), k=3)) |
