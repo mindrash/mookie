@@ -1,17 +1,17 @@
 ![mookie](./docs/1440x400.png)
 
 # It's Mookie Original, S3, and S3-PS Hypermodern Series
-It's Mookie. Mookie isn't pretty. It's Mookie baby. Now go. 
+<strong>It's Mookie</strong>. Mookie isn't pretty. It's Mookie baby. Now go. 
 <strong>(On Ethereum)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie) | 
 [Rarible](https://rarible.com/itsmookie/items)
 
-Introducing It's Mookie <strong>S3 [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! Are you hypermodern???
+Introducing <strong>It's Mookie S3 [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! Are you hypermodern???
 <strong>(On Polygon)</strong><br/>
 [Opensea](https://opensea.io/collection/its-mookie-s3) | 
 [Rarible](https://rarible.com/itsmookie-s3/)
 
-Also introducing It's Mookie <strong>S3-PS [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! New background set!
+Also introducing <strong>It's Mookie S3-PS [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! New background set!
 <strong>(On Fantom)</strong><br/>
 [Paintswap](https://paintswap.finance/marketplace/collections/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5)
 
