@@ -8,7 +8,7 @@
 
 Introducing <strong>It's Mookie S3 [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! Are you hypermodern???
 <strong>(On Polygon)</strong><br/>
-[Opensea](https://opensea.io/collection/its-mookie-s3) | 
+[Opensea]([https://opensea.io/collection/its-mookie-s3](https://opensea.io/collection/its-mookie-s3-hypermodern-series)) | 
 [Rarible](https://rarible.com/itsmookie-s3/)
 
 Also introducing <strong>It's Mookie S3-PS [Hypermodern](https://en.wikipedia.org/wiki/Hypermodernity) Series</strong>! Now with cigars, boobs, wings, and more! New background set!
